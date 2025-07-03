@@ -1,0 +1,12 @@
+app:
+  port: 80
+
+database:
+  host: localhost
+  user: ultrasur
+  password: ultrasur123
+  name: users
+  port: 5432
+
+secret:
+  jwt_secret: j3w3t353cr3t
